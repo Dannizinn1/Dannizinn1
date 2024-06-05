@@ -2,7 +2,7 @@
 
 Meu nome é Daniel dos Santos Gomes 
 
-- Estou estudando na Alura
+- Estou estudando na Alura ![](https://cursos.alura.com.br/dashboard)
 - Estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
